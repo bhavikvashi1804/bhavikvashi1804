@@ -11,7 +11,11 @@
 |---|---|---|---|---|---|
 
 
-## GitHub Stats 📈
-<img src="https://github-readme-stats.vercel.app/api?username=bhavikvashi1804&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<a href="https://github.com/bhavikvashi1804">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavikvashi1804&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/bhavikvashi1804">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavikvashi1804&show_icons=true&theme=light&line_height=27" alt="Bhavik's github stats"/>
+</a>
 
 ## Show some ❤️ by starring some of the repositories!
