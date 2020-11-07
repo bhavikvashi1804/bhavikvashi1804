@@ -24,6 +24,15 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://img.icons8.com/fluent/48/000000/github.png"></code>
 
+
+My Awesome Flutter  Apps 💙
+ - [Age Calculator](https://bhavikvashi1804.github.io/Age_Calculator)
+ - [Weather App](https://bhavikvashi1804.github.io/flutter_BLoC_Weather_App)
+ - [Foodzy](https://bhavikvashi1804.github.io/foodzy)
+ - [Shop](https://bhavikvashi1804.github.io/shop/)
+ 
+
+
 <a href="https://github.com/bhavikvashi1804">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavikvashi1804&theme=light&hide_langs_below=1" />
 </a>
