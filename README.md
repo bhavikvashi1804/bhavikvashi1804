@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Angular
 - 🎓 Graduated from G. H. Patel College of Engineering and Technology
-- 💼 Programmer Analyst Trainee at Cognizant
+- 💼 Programmer Analyst at Cognizant
 - 💬 Ask me about Flutter & Angular
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love cycling 🚴‍♂️. & I love travelling 🧳 🏖 .  
@@ -14,8 +14,6 @@
 
 
 My Awesome Flutter  Apps 💙
- - [Age Calculator](https://bhavikvashi1804.github.io/Age_Calculator)
- - [Weather App](https://bhavikvashi1804.github.io/flutter_BLoC_Weather_App)
  - [Foodzy](https://bhavikvashi1804.github.io/foodzy)
  - [Shop](https://bhavikvashi1804.github.io/shop/)
  
