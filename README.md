@@ -2,10 +2,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavikvashi1804&label=Views&color=blue&style=plastic" alt="bhavikvashi" /> </p>
 
 
-- 🌱 I’m currently learning Angular
+
 - 🎓 Graduated from G. H. Patel College of Engineering and Technology
-- 💼 Programmer Analyst at Cognizant
-- 💬 Ask me about Flutter & Angular
+- 💼 Software Engineer at BNP Paribas
+
+- 💬 Ask me about Spring & Angular
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love cycling 🚴‍♂️. & I love travelling 🧳 🏖 .  
 ### You can find and get touch with me on these accounts!
