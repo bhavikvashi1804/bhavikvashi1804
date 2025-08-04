@@ -4,7 +4,7 @@
 
 
 - 🎓 Graduated from G. H. Patel College of Engineering and Technology
-- 💼 Software Engineer at BNP Paribas
+- 💼 Software Engineer at Deloitte
 
 - 💬 Ask me about Spring & Angular
 - 😄 Pronouns: He/His
